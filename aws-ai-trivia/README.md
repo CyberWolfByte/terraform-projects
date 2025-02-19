@@ -112,7 +112,7 @@ This project is based on [More Than Certified](https://github.com/morethancertif
 
 ## Usage
 
-Clone the repository and initialize Terraform:
+- **Clone the repository and initialize Terraform**:
 
 ```bash
 git clone https://github.com/CyberWolfByte/terraform-projects/aws-ai-trivia.git
@@ -128,7 +128,7 @@ terraform init
   terraform apply -auto-approve
   ```
 
-### 6. Retrieve and Access the Application
+### Retrieve and Access the Application
 
 - **Retrieve the ALB DNS name from Terraform output**
 
