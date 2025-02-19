@@ -16,7 +16,7 @@ This project is based on [More Than Certified](https://github.com/morethancertif
 
 ## Prerequisites
 - **Terraform**: v1.3+ installed.
-- - **GitHub Codespaces**: Built and tested on Github Codespaces.
+- **GitHub Codespaces**: Built and tested on Github Codespaces.
 - **AWS CLI**: Configured with credentials.
 - **Docker & Docker Compose**: Required for containerized deployment.
 - **OpenAI API Key**: Needed for backend AI functionalities.
