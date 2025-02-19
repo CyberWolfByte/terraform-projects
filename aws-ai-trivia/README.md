@@ -160,7 +160,10 @@ terraform init
 ## Output Example
 
 Visiting the ALB URL should display the trivia UI.
-
+![TF AI Trivia 1](/images/aws_tf_ai_trivia_1.png)
+![TF AI Trivia 2](/images/aws_tf_ai_trivia_2.png)
+![TF AI Trivia 3](/images/aws_tf_ai_trivia_3.png)
+![TF AI Trivia 4](/images/aws_tf_ai_trivia_4.png)
 
 ## Contributing
 
