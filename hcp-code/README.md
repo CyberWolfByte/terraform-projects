@@ -108,8 +108,12 @@ terraform apply -auto-approve
    - Workspaces manage configurations using GitHub repositories.
 
 ## Output Example
-
-After deployment, Terraform outputs the Terraform Cloud workspace details:
+![GITOPS TF 1](/images/gitops_tf_1.png)
+![GITOPS TF 1](/images/gitops_tf_2.png)
+![GITOPS TF 1](/images/gitops_tf_3.png)
+![GITOPS TF 1](/images/gitops_tf_4.png)
+![GITOPS TF 1](/images/gitops_tf_5.png)
+![GITOPS TF 1](/images/gitops_tf_6.png)
 
 ## Contributing
 
