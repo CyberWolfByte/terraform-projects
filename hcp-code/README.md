@@ -26,7 +26,7 @@ This project is based on [More Than Certified](https://github.com/morethancertif
 Clone the repository and initialize Terraform:
 
 ```bash
-git clone https://github.com/CyberWolfByte/terraform-projects/hcp-code.git
+git clone https://github.com/CyberWolfByte/terraform-projects.git
 cd hcp-code
 terraform init
 ```
