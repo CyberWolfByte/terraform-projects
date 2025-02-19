@@ -4,7 +4,7 @@ This project automates the deployment of an AI-powered trivia application using 
 
 ## Acknowledgments
 
-This project is based on [More Than Certified](https://github.com/morethancertified) by [Derek Morgan](https://github.com/morethancertified/mtc-terraform-course/commits?author=mtcderek). We thank them for their contributions to the Terraform learning community.
+This project is based on [More Than Certified](https://github.com/morethancertified) by [Derek Morgan](https://github.com/mtcderek). We thank them for their contributions to the Terraform learning community.
 
 ## Features
 - **Automated AWS Infrastructure**: Deploys ECS-based backend and frontend using Terraform.
