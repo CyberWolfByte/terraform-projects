@@ -66,7 +66,6 @@ terraform init
 
 - **Create a new repository** in your GitHub account.
   - Visit [GitHub](https://github.com/new) and create a repository.
-  - **Repository Name:** `<YOUR_REPO_NAME>` (e.g., `hcp-code`).
   - Set it as **Private** or **Public**.
   - Do not initialize with a README, `.gitignore`, or license.
   - Upload the project to GitHub.
