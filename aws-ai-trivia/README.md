@@ -63,12 +63,7 @@ This project is based on [More Than Certified](https://github.com/morethancertif
     AWS_ACCESS_KEY_ID
     AWS_SECRET_ACCESS_KEY
     ```
-
-- **Validate AWS Credentials in GitHub Codespaces**:
-
-  ```bash
-  aws sts get-caller-identity
-  ```
+  - Validate AWS Credentials in GitHub Codespaces
 
 ### 3. Generate an OpenAI API Key
 
