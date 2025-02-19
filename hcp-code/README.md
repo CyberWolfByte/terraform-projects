@@ -70,9 +70,7 @@ terraform init
   - Set it as **Private** or **Public**.
   - Do not initialize with a README, `.gitignore`, or license.
   - Upload the project to GitHub.
-
-  ```
-- **Ensure Terraform Cloud has access** to the repository for automation.
+  - Ensure Terraform Cloud has access to the repository for automation.
 
 ### 5. Configure Terraform for GitOps Automation
 
