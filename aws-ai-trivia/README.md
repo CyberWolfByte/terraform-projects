@@ -115,7 +115,7 @@ This project is based on [More Than Certified](https://github.com/morethancertif
 - **Clone the repository and initialize Terraform**:
 
 ```bash
-git clone https://github.com/CyberWolfByte/terraform-projects/aws-ai-trivia.git
+git clone https://github.com/CyberWolfByte/terraform-projects.git
 cd aws-ai-trivia
 terraform init
 ```
